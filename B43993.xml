@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir, I presume you began to wonder I did not sooner endeavour to satisfy you and other good men by a personal and particular answer to those many libels wherein we have lately been entertained ... to the right worshipful Sir Thomas Earle knight, mayor of the city of Bristol, and the right worshipful and worshipful the aldermen, His Majestie's justices of the peace for this city and county in their general quarter-sessions of the peace now assembled.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43993</idno><idno type="EEBO-CITATION">625106362</idno>
+  <idno type="VID">211343</idno>
+  <idno type="EEBO-PROQUEST">2240871673</idno>
+  
+            <idno type="OCLC"> 625106362</idno>
+            <idno type="OCLC">ocn 625106362</idno>
+            <idno type="STC">Wing S3879</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43993)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211343)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2971:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir, I presume you began to wonder I did not sooner endeavour to satisfy you and other good men by a personal and particular answer to those many libels wherein we have lately been entertained ... to the right worshipful Sir Thomas Earle knight, mayor of the city of Bristol, and the right worshipful and worshipful the aldermen, His Majestie's justices of the peace for this city and county in their general quarter-sessions of the peace now assembled.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (Bristol)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.C. and sold by W. Davis,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publisher information from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Court of Quarter Sessions of the Peace (Bristol) --  Early works to 1800.</term>
+               <term type="topical_term">Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Bristol (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:211343:1"/>
+            <pb facs="tcp:211343:2"/>
+            <pb n="1" facs="tcp:211343:2"/>
+            <head>BRISTOL, 29 April, 1682.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Presume you began to wonder I did not sooner endeavour to satisfy you and other good Men by a personal and particular answer to those many Libels wherewith we have lately been entertained. For my own part, I despise these Libels as the Moon doth the barking of Doggs. But you see by the inclosed, That the City are Concerned thereat, and have condemned them to the Flames. Perhaps you may hear of the Authors how they will be dealt with e're it be long. Justice will as certainly find them out, as I am</p>
+            <closer>
+               <signed>Your very Loving Friend.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Bristol sc' Easter Sessions, 1682.</head>
+            <opener>
+               <salute>To the Right Worshipful Sir <hi>Thomas Earle</hi> Knight, Mayor of the City of <hi>Bristol,</hi> and the Right Worshipful and Worshipful the Aldermen, His Majestie's Justices of the Peace for this City and County in their general Quarter-Sessions of the Peace now Assembled.</salute>
+            </opener>
+            <p>VVEE the Grand Jurors for our Soveraign Lord the King and the Body of the County of this City, having too great occasion given us by se<g ref="char:EOLhyphen"/>veral Infamous, Scandalous and Seditious Libels of late disper<g ref="char:EOLhyphen"/>sed and published here, Namely two purporting themselves Printed by one <hi>R. Janeway,</hi> under the title of the <hi>Impartial Protestant Mercury,</hi> Numb. 89, &amp; 96. And four others, The one Entituled; <hi>The Sad and Lamentable Cry of Oppression and Cru<g ref="char:EOLhyphen"/>elty in the City of</hi> Bristol, <hi>&amp;c.</hi> Another Entituled, <hi>More Sad</hi>
+               <pb n="2" facs="tcp:211343:3"/>
+               <hi>and Lamentable News from</hi> Bristol, <hi>&amp;c.</hi> Another, <hi>The Devour<g ref="char:EOLhyphen"/>ing Informers of</hi> Bristol, <hi>&amp;c.</hi> And the other, <hi>The Protestant Corant purporting it self,</hi> published by <hi>Rich. Baldwin,</hi> do upon diligent reading and perusal of them, and examination of the Matters concerning this City therein set forth, Present the same to be for the most utterly false, and these few truths that are therein to be most malitiously mis-represented: Whereas what is therein complained of, (if impartially rela<g ref="char:EOLhyphen"/>ted) would have appeared to all honest and unbyassed men, to be not onely agreeable to Law and Reason, but com<g ref="char:EOLhyphen"/>mendable also.</p>
+            <p>We deem all these Libels to be the Contrivance of Factious and Disaffected persons to His Majesty and our present Esta<g ref="char:EOLhyphen"/>blishments in Church and State, who endeavour by all means to Calumniate divers of the Magistrates of this City, The Right Reverend Father in God our Lord Bishop, The Right Worshipful Sir <hi>John Knight,</hi> one of our Sheriffs, <hi>John Romsey</hi> Esq; our Town-Clerk, <hi>John Hellier</hi> Gent. Chief Constable of the Word of St. <hi>James,</hi> and several other Constables and others who out of their Zeal to the Church, and their Loyalty and Obedience to the King and his Laws, have been active and industrious in putting them in execution. And we humbly recommend it to this Court as the Sence of this City, That the Authors and Dispersers of these and all such like Libels may be severely proceeded against and punished, and that the Libels themselves may pass under some public and exem<g ref="char:EOLhyphen"/>plary mark of the displeasure and detestation of this Court.</p>
+            <p>We are very glad to see and observe, that your Worships proceedings in executing the Laws against Dissenters, have been productive of such good Fruits in order to the recon<g ref="char:EOLhyphen"/>ciling of divers of His Majestiy's Subjects here to the Govern<g ref="char:EOLhyphen"/>ment both in Church and State; and particularly we con<g ref="char:EOLhyphen"/>gratulate <hi>Erasmus Dole</hi> (a Quaker) for his taking the Oath of Allegiance now tendered him, which he refused last Sessions, and are so far from any insolent triumph on that occasion, that we think our selves and all Loyal Men obliged in Chri<g ref="char:EOLhyphen"/>stian Charity to encourage and cherish him and all others in returning to their Loyalty to His Majesty, and reconciling themselves to the Church.</p>
+            <p>And whereas <hi>Baldwins</hi> Libel beforementioned hath the impudence to charge the Execution of the Laws here with
+<pb n="3" facs="tcp:211343:3"/> partiality towards Papists: For the just Vindication of this City in this particular, We present and affirm, That there are not, nor for Seven Years last past have been to the best of our knowledg above two Families of Papists within this City and County, One of which removed to avoid prosecution, And the other hath hitherto escaped it (as many scores of other Recusants have done) by sheltring themselves in the Castle, being <hi>extra</hi> Parochial and their Common Sanctuary. But even there we hope the Justice of this Court will in short time find them all out, and bring them to Conformity or Condign punishment.</p>
+            <p>We have lately brought to our hands another Libel sty<g ref="char:EOLhyphen"/>led, <hi>The Addresses, importing an Abhorrence of an Association,</hi> &amp;c. purporting to be printed for <hi>R. Baldwin;</hi> which having read, It gives us just occasion to testify our concurrence with those of this City and elsewhere, who have formerly declared their Thanks to His Majesty for his most Gratious Declaration of his Reasons for Dissolving the Two last Parliaments, and their Detestation and Abhorrence of that Treasonable In<g ref="char:EOLhyphen"/>strument of Association seized in the Earl of <hi>Shaftsbury</hi>'s Clo<g ref="char:EOLhyphen"/>set.</p>
+            <p>And although we are not so tame as to wear Chains or worship the Host, Yet we declare our selves willing to bear the easie Yoke of Obedience and Subjection due to His Ma<g ref="char:EOLhyphen"/>jesty, his Heirs and Successors, and to the Laws as now Esta<g ref="char:EOLhyphen"/>blished, and shall account it our Interest as well as Duty, according to our sworn Allegiance, with our Lives and Fortunes to maintain and defend him and them against that and all other such like Damnable Associations and Confede<g ref="char:EOLhyphen"/>racies whatsoever. And in regard the Printers of these Li<g ref="char:EOLhyphen"/>bels are out of the Liberties of this City, we humbly request your Worships to Address His Sacred Majesty in Councel, and implore the Aid and Assistance of that Board in order to their being dealt with according to their demerits.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Robert Brookehouse,</item>
+                     <item>John Yeomans,</item>
+                     <item>Richard Gibbons,</item>
+                     <item>Edward Millerd,</item>
+                     <item>John Reed,</item>
+                     <item>John Winpenny,</item>
+                     <item>William Lewis,</item>
+                     <item>George Bryan,</item>
+                     <item>John Coperthwayte,</item>
+                     <item>John Horne,</item>
+                     <item>Alexander Caduggan,</item>
+                     <item>Thomas Turner,</item>
+                     <item>Thomas Compton,</item>
+                     <item>Thomas Lane,</item>
+                     <item>William Hasell,</item>
+                     <item>John Smyth,</item>
+                     <item>Joseph Hobbs,</item>
+                     <item>Walter Hawkins,</item>
+                     <item>Timothy Michael,</item>
+                     <item>Thomas Green,</item>
+                     <item>Barnabas Skinner,</item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:211343:4"/>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:211343:4"/>
+            <head>28 April, 1682.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <p>THis Court being very sensible of the <note place="margin">Easter Sessions Bristol.</note> great Dishonour and Scandal the se<g ref="char:EOLhyphen"/>veral Libels mentioned in the Presentment of the Grand Jury, have brought upon the Government of this City, and their Proceedings, and many of the Persons named in them, do, for the Vindication of the Proceedings and Persons aforesaid, and in Detestation of such Malicious and Evil Practises, Order that the said seve<g ref="char:EOLhyphen"/>ral Libels be at the rising of the Court pub<g ref="char:EOLhyphen"/>lickly Burnt by the Beadle or Common Executioner. And that the Belman at<g ref="char:EOLhyphen"/>tend then to Publish this Order.</p>
+                        <closer>
+                           <signed>Per Cur'</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>At the Rising of the Court, the said Libels were accord<g ref="char:EOLhyphen"/>ingly burnt: The Bell-man after ringing of the Bell three times declaring the occasion of the Fire, and of the burning of the Papers there. The Mayor and Aldermen attending with the Sword at the</hi> Tolzey <hi>to see the Execution of this Order.</hi>
+            </p>
+            <p>
+               <hi>Ordered,</hi> That Mr. Town-Clerk prepare an Address to His Majesty and Councel, That the Libellers of this City and the Proceed<g ref="char:EOLhyphen"/>ings there may be brought to condign Punishment.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. C.</hi> and Sold by <hi>W. Davis.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
